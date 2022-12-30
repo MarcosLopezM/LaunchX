@@ -5,3 +5,7 @@ Este repositorio contiene las katas correspondientes a cada uno de los módulos 
 Autor: Marcos López
 <br>
 Fecha: Febrero, 2022
+### Contributing 
+Editor: Michael Glenn
+<br>
+Fecha: Febrero. 2022
